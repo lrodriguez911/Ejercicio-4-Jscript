@@ -1,2 +1,2 @@
-# Ejercicio-4-Jscript
-Ejercicio-4-Jscript
+# Ejercicios Jscript
+Ejercicios Jscript
