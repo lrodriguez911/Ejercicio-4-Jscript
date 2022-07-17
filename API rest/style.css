@@ -1,0 +1,31 @@
+body {
+    background-color: rgba(58, 58, 59, 0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contenedor {
+    width: 120em;
+    height: 12em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; 
+}
+.api{
+    width: 5em;
+    height: 1em;  
+    color: rgba(196, 196, 196, 0.8);
+    background-color: rgba(35, 35, 36, 0.8);
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    border-radius: 20px;
+    font-size: 10rem;
+    box-shadow: 0px 0px 20px 20px rgb(30, 137, 141);
+    transition: transform 1s;
+    cursor: pointer;
+}
+.api:hover{
+    transform: scale(1.3);
+}

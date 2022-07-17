@@ -1,6 +1,4 @@
-do {
-    let edad = parseInt(prompt('ingrese su edad'))
-    edad >= 18 ? document.write('puede conducir') : 
-    document.write('es muy joven')
-} while (edad == 0);
+for (let index = 0; index === 30; index++) {
+    document.write(index + '<br>')
+}
 
